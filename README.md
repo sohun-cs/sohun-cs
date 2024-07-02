@@ -32,6 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaduzzamansohun&show_icons=true&locale=en" alt="asaduzzamansohun" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaduzzaman-sohun&show_icons=true&locale=en&layout=compact" alt="asaduzzaman-sohun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaduzzamansohun&" alt="asaduzzamansohun" /></p>
