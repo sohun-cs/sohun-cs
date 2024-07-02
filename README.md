@@ -1,3 +1,7 @@
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Asaduzzaman Sohun</h1>
 <h3 align="center">I'm a passionate Junior Front-End Developer specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). I enjoy creating interactive and dynamic web applications and have a growing knowledge base in modern web technologies.</h3>
 
