@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<img src="https://i.imgur.com/YTCP7uE.gifv" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Asaduzzaman Sohun</h1>
