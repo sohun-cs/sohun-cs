@@ -21,9 +21,9 @@
 
 ## 🛠️ Tech Stack
 
-- **Front-End:** React, Redux, Next.js, TypeScript, HTML, CSS, JavaScript, Tanstack Query (React Query)
+- **Front-End:** React, TypeScript, HTML, CSS, JavaScript, Tanstack Query (React Query)
 - **Back-End:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
+- **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT), Firebase Authentication
 - **Tools & Platforms:** Git, GitHub, VS Code, Firebase, Netlify, Heroku
 
